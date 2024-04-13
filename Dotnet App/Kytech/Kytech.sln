@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kytech", "Kytech.csproj", "{A81EE7A3-D450-4644-9B6D-F2D7D8DC59DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81EE7A3-D450-4644-9B6D-F2D7D8DC59DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81EE7A3-D450-4644-9B6D-F2D7D8DC59DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81EE7A3-D450-4644-9B6D-F2D7D8DC59DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81EE7A3-D450-4644-9B6D-F2D7D8DC59DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92B4767F-7349-47EC-9CFC-4A736CA12CC6}
+	EndGlobalSection
+EndGlobal
